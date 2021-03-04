@@ -1,0 +1,20 @@
+{
+  "appPackage": "",
+  "isLive": true,
+  "newAppPackage": "",
+  "isAdsShow": true,
+  "inter": "ca-app-pub-3940256099942544/1033173712",
+  "fb_inter": "1",
+  "fb_banner": "1",
+  "fb_native": "1",
+  "isShowGG": false,
+  "banner": "ca-app-pub-3940256099942544/6300978111",
+  "nativeAd": "ca-app-pub-3940256099942544/2247696110",
+  "rewarded": "",
+  "percent_banner": 100,
+  "percent_inter": 100,
+  "percent_native": 100,
+  "numberNativeAd": 3,
+  "numberInterAd": 100,
+  "timeRequestAd": 1000
+}
